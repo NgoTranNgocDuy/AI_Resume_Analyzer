@@ -1,0 +1,72 @@
+# Sample Resume for Testing
+
+John Doe
+Email: john.doe@example.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+Location: San Francisco, CA
+
+## PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 5+ years of expertise in building scalable web applications. Proven track record of leading development teams and delivering high-quality software solutions. Passionate about clean code, modern technologies, and user-centric design.
+
+## SKILLS
+**Technical Skills:** JavaScript, TypeScript, Python, Java, React, Node.js, Express, Django, Spring Boot, HTML, CSS, Tailwind CSS, SQL, MongoDB, PostgreSQL, Redis, AWS, Docker, Kubernetes, Git, CI/CD, REST APIs, GraphQL, Microservices, Agile, Scrum
+
+**Soft Skills:** Leadership, Communication, Problem Solving, Team Collaboration, Project Management, Mentoring
+
+## WORK EXPERIENCE
+
+### Senior Full Stack Developer
+**Tech Innovations Inc.** | San Francisco, CA | Jan 2021 - Present
+- Developed and deployed 15+ microservices using Node.js and React, improving system scalability by 40%
+- Led a team of 6 developers in delivering a customer-facing e-commerce platform serving 100K+ daily users
+- Reduced application load time by 60% through code optimization and implementation of caching strategies
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 75%
+- Mentored 3 junior developers, contributing to their professional growth and skill development
+
+### Full Stack Developer
+**Digital Solutions LLC** | San Jose, CA | Jun 2019 - Dec 2020
+- Built responsive web applications using React, TypeScript, and Node.js for 10+ enterprise clients
+- Designed and implemented RESTful APIs serving 50K+ requests per day
+- Increased test coverage from 45% to 95% by implementing comprehensive unit and integration tests
+- Collaborated with UX designers to create intuitive user interfaces, improving user satisfaction by 30%
+- Reduced bug reports by 40% through implementation of robust error handling and logging
+
+### Junior Developer
+**StartUp Ventures** | Mountain View, CA | Jan 2018 - May 2019
+- Developed features for web applications using JavaScript, React, and Python
+- Participated in code reviews and contributed to team coding standards
+- Created automated testing scripts that saved 10+ hours per week in manual testing
+- Worked in an Agile environment with 2-week sprints and daily standups
+
+## EDUCATION
+
+### Bachelor of Science in Computer Science
+**University of California, Berkeley** | Berkeley, CA | 2014 - 2018
+- GPA: 3.8/4.0
+- Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems, Software Engineering
+- Dean's List: 6 semesters
+
+### Certifications
+- AWS Certified Developer - Associate (2022)
+- Certified Scrum Master (CSM) (2021)
+
+## PROJECTS
+
+### E-Commerce Platform (Personal Project)
+- Built a full-stack e-commerce application using MERN stack (MongoDB, Express, React, Node.js)
+- Implemented secure payment processing using Stripe API
+- Deployed on AWS using EC2, S3, and CloudFront
+- GitHub: github.com/johndoe/ecommerce-platform
+
+### Task Management App
+- Developed a collaborative task management tool with real-time updates using Socket.io
+- Implemented authentication and authorization using JWT
+- Tech Stack: React, Node.js, PostgreSQL, Redis
+- 500+ active users
+
+## VOLUNTEER EXPERIENCE
+
+### Coding Mentor
+**Code for Good** | 2020 - Present
+- Mentor aspiring developers in web development fundamentals
+- Conducted 50+ one-on-one mentoring sessions
+- Helped 15 mentees secure their first developer positions
